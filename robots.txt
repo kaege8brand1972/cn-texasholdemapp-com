@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaege8brand1972.github.io/cn-texasholdemapp-com/sitemap.xml
